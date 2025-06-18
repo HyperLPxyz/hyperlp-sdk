@@ -1,4 +1,3 @@
-import { Trans } from '@lingui/macro'
 import Row from 'components/Row'
 import { Logo } from 'icons'
 import { memo } from 'react'
